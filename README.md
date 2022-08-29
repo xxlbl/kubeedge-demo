@@ -11,6 +11,5 @@
 2. 加入云端并安装运行edgecore
 3. 编译打包镜像
 ### 3.目录
-1.installation KubeEdge环境及Demo环境配置
-
-2.examples 应用代码
+1. installation KubeEdge环境及Demo环境配置
+2. examples 应用代码
